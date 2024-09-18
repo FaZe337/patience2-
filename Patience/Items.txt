@@ -1,0 +1,148 @@
+// ItemIDs - Used For Item Glow
+// These Don't Frequently Update, But You Can Use Settings->Dev Options->Draw ItemIDs To Update Them (Manually, Unfortunate)
+
+// Simple IDs - For Simple Item Glow
+int SimpleWeapons = 9;
+int SimpleAmmo = 58;
+int SimpleCommon = 65;
+int SimpleRare = 54;
+int SimpleEpic = 47;
+int SimpleGold = 15;
+int SimpleMythic = 42;
+
+// Gear
+int CommonHelmet = 205;
+int CommonShield = 220;
+int CommonKnockdown = 225;
+int CommonBackpack = 229;
+int RareHelmet = 206;
+int RareShield = 221;
+int RareKnockdown = 226;
+int RareBackpack = 230;
+int EpicHelmet = 207;
+int EpicShield = 222;
+int EpicKnockdown = 227;
+int EpicBackpack = 231;
+int GoldHelmet = 208;
+int GoldKnockdown = 228;
+int GoldBackpack = 232;
+int GoldEvoCache = 335;
+int MythicShield = 223;
+
+// Weapons
+// Light
+int P2020 = 117;
+int RE45 = 126;
+int Alternator = 45;
+int R301 = 82;
+int Spitfire = 77;
+int G7 = 40;
+// Heavy
+int Flatline = 29;
+int Hemlock = 34;
+int Prowler = 56;
+int Repeater = 139;
+int Rampage = 156;
+int CARSMG = 161;
+// Energy
+int Havoc = 13;
+int LSTAR = 7;
+int TripleTake = 24;
+int Volt = 62;
+int Nemesis = 145;
+// Shotgun
+int Mastiff = 2;
+int EVA8 = 87;
+int Peacekeeper = 93;
+int Mozambique = 96;
+// Sniper
+int Wingman = 111;
+int Longbow = 67;
+int ChargeRifle = 72;
+int Sentinel = 132;
+// Mythic
+int R99 = 50;
+int Devotion = 19;
+int Bocek = 137;
+int Kraber = 1;
+int Knife = 233;
+
+// Ammo
+int Light = 150;
+int Heavy = 153;
+int Energy = 151;
+int Shotgun = 152;
+int Sniper = 154;
+
+// Attachments
+// Sight 
+int HCOG1x = 237;
+int HOLO1x = 239;
+int HCOG2x = 238;
+int HOLO2x = 240;
+int HCOG3x = 242;
+int AOG4x = 243;
+int Sniper6x = 244;
+int Sniper8x = 245;
+int Sniper10x = 246;
+
+// Mag 
+int CommonLightMag = 254;
+int RareLightMag = 255;
+int EpicLightMag = 256;
+int GoldLightMag = 257;
+int CommonHeavyMag = 258;
+int RareHeavyMag = 259;
+int EpicHeavyMag = 260;
+int GoldHeavyMag = 261;
+int CommonEnergyMag = 262;
+int RareEnergyMag = 263;
+int EpicEnergyMag = 264;
+int GoldEnergyMag = 265;
+int CommonSniperMag = 266;
+int RareSniperMag = 267;
+int EpicSniperMag = 268;
+int GoldSniperMag = 269;
+
+// HopUp 
+int TurboCharger = 280;
+int DisruptorRounds = 285;
+int HammerPointRounds = 286;
+int BoostedLoader = 294;
+
+// Barrel 
+int CommonStabilizer = 247;
+int RareStabilizer = 248;
+int EpicStabilizer = 249;
+int CommonLaser = 251;
+int RareLaser = 252;
+int EpicLaser = 253;
+int CommonShotgunBolt = 270;
+int RareShotgunBolt = 271;
+int EpicShotgunBolt = 272;
+int GoldShotgunBolt = 273;
+
+// Stock 
+int CommonStock = 274;
+int RareStock = 275;
+int EpicStock = 276;
+int CommonSniperStock = 277;
+int RareSniperStock = 278;
+int EpicSniperStock = 279;
+
+// Consumables
+int Phoenix = 200;
+int Medkit = 201;
+int Syringe = 202;
+int ShieldBattery = 203;
+int ShieldCell = 204;
+
+// Misc
+// Throwables
+int Thermite = 234;
+int Frag = 235;
+int Arc = 236;
+// Survival Items
+int EVACTower = 306;
+int MobileRespawnBeacon = 303;
+int HeatShield = 302;
